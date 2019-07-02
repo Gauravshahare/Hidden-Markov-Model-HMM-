@@ -17,6 +17,5 @@
   
   
   ### Future Work
-  
-  how to train HMM when we have whole lot bunch of traning sequence
+ 
   
