@@ -13,7 +13,7 @@
   If you have raw sequence on which HMM has to be applied first get number number of unique hidden states and unique visible states and    map states and visible states as follows
   
   
-  Given code is implmentation of document https://web.stanford.edu/~jurafsky/slp3/A.pdf
+  Given code is implementation of document https://web.stanford.edu/~jurafsky/slp3/A.pdf
   
   
   ### Future Work
